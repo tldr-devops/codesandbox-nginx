@@ -5,7 +5,7 @@
 
 [![Try in Codesandbox.io](https://img.shields.io/badge/Try%20in%20Codesandbox.io-blue)](https://codesandbox.io/p/github/tldr-devops/codesandbox-nginx)
 
-Welcome to the interactive sandbox featuring the [Nginx Web Server](href="http://nginx.org), where you can test your Nginx configurations.
+Welcome to the interactive sandbox featuring the [Nginx Web Server](http://nginx.org), where you can test your Nginx configurations.
 
 To begin, clone this repository to your account by clicking "Create Branch" or "Fork" in the top right corner. This is necessary to access the preview window, open the terminal, and make changes to the code.
 
