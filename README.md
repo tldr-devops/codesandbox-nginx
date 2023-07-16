@@ -11,6 +11,8 @@ To begin, clone this repository to your account by clicking "Create Branch" or "
 
 Note: If you do not clone the repository, you will not be able to perform any of the aforementioned actions.
 
+Another note: you should reload preview window after updating html content.
+
 [Codesandbox](https://codesandbox.io) provides [Cloud Sandboxes](https://codesandbox.io/docs/learn/environment/vm) with the following specifications:
 - 2 vCPUs
 - 2 GB of RAM
